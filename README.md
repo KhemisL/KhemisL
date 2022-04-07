@@ -1,5 +1,8 @@
 ### Hi there 👋
+Bonjour,
+Khemis actuellement en formation chez OpenClassroom en tant que développeur web je souhaite par la suite m'orienter en tant que développeur Front end React!!!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khemis)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KhemisL/KhemisL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
