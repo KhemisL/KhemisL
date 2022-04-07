@@ -5,6 +5,7 @@ Bonjour, Khemis actuellement en formation chez OpenClassroom en tant que dévelo
 ### Skills:  HTML / CSS / SCSS
 
 🔭 Je travaille actuellement sur les projets OpenClassroom 
+
 🌱 J' apprends actuellement JS / REACT 
 
 
