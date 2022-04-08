@@ -1,6 +1,6 @@
 ### Bonjour👋, Je m'apelle Khemis
 
-Bonjour, Khemis actuellement en formation chez OpenClassroom en tant que développeur web je souhaite par la suite m'orienter en tant que développeur Front end React!!!
+Actuellement en formation chez OpenClassroom en tant que développeur web je souhaite par la suite m'orienter en tant que développeur Front end React!!!
 
 ### Skills:  HTML / CSS / SCSS
 
